@@ -1,0 +1,3 @@
+
+
+sdfasfs =pointer->sa[0];
