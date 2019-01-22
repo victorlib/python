@@ -1,0 +1,11 @@
+names = ["anjaxs", "zhang san", "li si"]
+print(names)
+print("添加一个wang wu嘉宾到名单开头")
+names.insert(0, "wang wu")
+print(names)
+print("添加另一个zhao liu嘉宾到名单中间")
+names.insert(round(len(names)/2), "zhao liu")
+print(names)
+print("添加另一个lao tie嘉宾到名单末尾")
+names.append("lao tie")
+print(names)

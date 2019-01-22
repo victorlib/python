@@ -58,3 +58,20 @@ del(peoples[0])
 print(peoples)
 print("I can only invite two people to have dinner")
 
+
+# ### 3.3组织列表
+
+# In[27]:
+
+
+cars = ['bmw', 'audi', 'toyata', 'subaru']
+cars.sort(reverse=True)
+
+sorted(cars)
+
+
+# In[28]:
+
+
+sorted(cars, reverse=False)
+

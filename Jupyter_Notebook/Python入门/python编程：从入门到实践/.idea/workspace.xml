@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/外星人入侵/alien_invasion.py" line="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c6d11af-782f-4c6b-bc6c-f3005e9e5d9d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$3_6.coverage" NAME="3-6添加嘉宾 Coverage Results" MODIFIED="1528037667241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$4_4.coverage" NAME="4-4一百万 Coverage Results" MODIFIED="1528115015041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$5_2.coverage" NAME="5-2更多的条件测试 Coverage Results" MODIFIED="1528209504295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$5_8.coverage" NAME="5-8以特殊方式跟管理员打招呼 Coverage Results" MODIFIED="1528214272953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$6_6.coverage" NAME="6-6调查 Coverage Results" MODIFIED="1528289107552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$7_4.coverage" NAME="7-4披萨配料 Coverage Results" MODIFIED="1528380883180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap07用户输入和while循环" />
+    <SUITE FILE_PATH="coverage/python$5_4_2.coverage" NAME="5-4外星人颜色#2 Coverage Results" MODIFIED="1528212982651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$8_10.coverage" NAME="8-10了不起的魔术师 Coverage Results" MODIFIED="1528504542104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$12_1.coverage" NAME="12-1蓝色天空 Coverage Results" MODIFIED="1529063255386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap12武装飞船" />
+    <SUITE FILE_PATH="coverage/python$8_8.coverage" NAME="8-8用户的专辑 Coverage Results" MODIFIED="1528478680155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$9_6.coverage" NAME="9-6冰激凌小店 Coverage Results" MODIFIED="1528605405771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$15_8.coverage" NAME="15-8同时掷三个骰子 Coverage Results" MODIFIED="1533458087862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap15生成数据" />
+    <SUITE FILE_PATH="coverage/python$7_10.coverage" NAME="7-10梦想的度假胜地 Coverage Results" MODIFIED="1528382655578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap07用户输入和while循环" />
+    <SUITE FILE_PATH="coverage/python$8_2.coverage" NAME="8-2喜欢的图书 Coverage Results" MODIFIED="1528468678419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$2_62.coverage" NAME="2-6名言2 Coverage Results" MODIFIED="1527768700934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$10_5.coverage" NAME="10-5关于编程的调查 Coverage Results" MODIFIED="1528725104266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$6_72.coverage" NAME="6-7人2 Coverage Results" MODIFIED="1528289626136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$3_10.coverage" NAME="3-10尝试各种函数 Coverage Results" MODIFIED="1528039181650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$5_10.coverage" NAME="5-10检查用户名 Coverage Results" MODIFIED="1528214910435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$4_10.coverage" NAME="4-10切片 Coverage Results" MODIFIED="1528116270141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$8_9.coverage" NAME="8-9魔术师 Coverage Results" MODIFIED="1528504161930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$game_functions.coverage" NAME="game_functions Coverage Results" MODIFIED="1530532248877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵" />
+    <SUITE FILE_PATH="coverage/python$2_10.coverage" NAME="2-10添加注释 Coverage Results" MODIFIED="1527769109744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$8_11.coverage" NAME="8-11不变的魔术师 Coverage Results" MODIFIED="1528504655449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$5_11.coverage" NAME="5-11序数 Coverage Results" MODIFIED="1528215128868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_17_3python_repos_py.coverage" NAME="Unittests in 17-3测试python_repos.py Coverage Results" MODIFIED="1534237590599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap17使用API" />
+    <SUITE FILE_PATH="coverage/python$3_5.coverage" NAME="3-5修改嘉宾名单 Coverage Results" MODIFIED="1528037087633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$3_1.coverage" NAME="3-1姓名 Coverage Results" MODIFIED="1527769380987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$6_11.coverage" NAME="6-11城市 Coverage Results" MODIFIED="1528291241193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$13_6.coverage" NAME="13-6游戏结束 Coverage Results" MODIFIED="1533047483189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap13外星人" />
+    <SUITE FILE_PATH="coverage/python$15_2.coverage" NAME="15-2彩色立方 Coverage Results" MODIFIED="1533422178057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap15生成数据" />
+    <SUITE FILE_PATH="coverage/python$15_7D8.coverage" NAME="15-7两个D8骰子 Coverage Results" MODIFIED="1533457911922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap15生成数据" />
+    <SUITE FILE_PATH="coverage/python$3_11.coverage" NAME="3-11有意引发错误 Coverage Results" MODIFIED="1528039204074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$5_7.coverage" NAME="5-7喜欢的水果 Coverage Results" MODIFIED="1528213962912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$4_11.coverage" NAME="4-11你的披萨和我的披萨 Coverage Results" MODIFIED="1528116485263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$13_5.coverage" NAME="13-5抓球 Coverage Results" MODIFIED="1533042361902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap13外星人" />
+    <SUITE FILE_PATH="coverage/python$15_1.coverage" NAME="15-1立方 Coverage Results" MODIFIED="1533422039237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap15生成数据" />
+    <SUITE FILE_PATH="coverage/python$7_3.coverage" NAME="7-3十的整数倍 Coverage Results" MODIFIED="1528371839997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap07用户输入和while循环" />
+    <SUITE FILE_PATH="coverage/python$14_2.coverage" NAME="14-2射击练习 Coverage Results" MODIFIED="1533407985298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap14记分" />
+    <SUITE FILE_PATH="coverage/python$15_9.coverage" NAME="15-9将点数相乘 Coverage Results" MODIFIED="1533458695002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap15生成数据" />
+    <SUITE FILE_PATH="coverage/python$10_10.coverage" NAME="10-10常见单词 Coverage Results" MODIFIED="1528894990211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$alien_invasion__1_.coverage" NAME="alien_invasion (1) Coverage Results" MODIFIED="1530532296821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵" />
+    <SUITE FILE_PATH="coverage/python$16_1.coverage" NAME="16-1旧金山 Coverage Results" MODIFIED="1533603755384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap16下载数据" />
+    <SUITE FILE_PATH="coverage/python$11_2.coverage" NAME="11-2人口数量 Coverage Results" MODIFIED="1528994922073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap11测试代码" />
+    <SUITE FILE_PATH="coverage/python$7_9.coverage" NAME="7-9五香熏牛肉卖完了 Coverage Results" MODIFIED="1528382146272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap07用户输入和while循环" />
+    <SUITE FILE_PATH="coverage/python$9_8.coverage" NAME="9-8权限 Coverage Results" MODIFIED="1528606224841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$15_6.coverage" NAME="15-6自动生成标签 Coverage Results" MODIFIED="1533457831842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap15生成数据" />
+    <SUITE FILE_PATH="coverage/python$4_12.coverage" NAME="4-12使用多个循环 Coverage Results" MODIFIED="1528116644812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$16_4.coverage" NAME="16-4探索 Coverage Results" MODIFIED="1533604697047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap16下载数据" />
+    <SUITE FILE_PATH="coverage/python$4_320.coverage" NAME="4-3数到20 Coverage Results" MODIFIED="1528114949085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$5_1.coverage" NAME="5-1条件测试 Coverage Results" MODIFIED="1528207901899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$scatter_squares.coverage" NAME="scatter_squares Coverage Results" MODIFIED="1533421473985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化" />
+    <SUITE FILE_PATH="coverage/python$2_88.coverage" NAME="2-8数字8 Coverage Results" MODIFIED="1527768922281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$3_4.coverage" NAME="3-4嘉宾名单 Coverage Results" MODIFIED="1528036875453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$9_13OrderDict.coverage" NAME="9-13使用OrderDict Coverage Results" MODIFIED="1528607750879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$10_7.coverage" NAME="10-7加法运算器 Coverage Results" MODIFIED="1528893021161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$3_2.coverage" NAME="3-2问候语 Coverage Results" MODIFIED="1527769566033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$2_4.coverage" NAME="2-4调整名字的大小写 Coverage Results" MODIFIED="1527768441845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$3_7.coverage" NAME="3-7缩减名单 Coverage Results" MODIFIED="1528037995266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$2_9.coverage" NAME="2-9最喜欢的数字 Coverage Results" MODIFIED="1527769051354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$6_1.coverage" NAME="6-1人 Coverage Results" MODIFIED="1528287808814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$13_4.coverage" NAME="13-4连绵细雨 Coverage Results" MODIFIED="1533033250890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap13外星人" />
+    <SUITE FILE_PATH="coverage/python$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1533409928376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵" />
+    <SUITE FILE_PATH="coverage/python$6_4.coverage" NAME="6-4词汇表 Coverage Results" MODIFIED="1528288646142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$5_9.coverage" NAME="5-9处理没有用户的情形 Coverage Results" MODIFIED="1528214417800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$9_14.coverage" NAME="9-14骰子 Coverage Results" MODIFIED="1528608118351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$10_12.coverage" NAME="10-12记住喜欢的数字 Coverage Results" MODIFIED="1528897079543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$2_7.coverage" NAME="2-7剔除人名中的空白 Coverage Results" MODIFIED="1527768819886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$9_1.coverage" NAME="9-1餐馆 Coverage Results" MODIFIED="1528557007590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$8_4T.coverage" NAME="8-4大号T恤 Coverage Results" MODIFIED="1528469677811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$8_6.coverage" NAME="8-6城市名 Coverage Results" MODIFIED="1528477394115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$8_14.coverage" NAME="8-14汽车 Coverage Results" MODIFIED="1528507492626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$13_2.coverage" NAME="13-2更逼真的星星 Coverage Results" MODIFIED="1532967264654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap13外星人" />
+    <SUITE FILE_PATH="coverage/python$4_9.coverage" NAME="4-9立方解析 Coverage Results" MODIFIED="1528115558186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$8_1.coverage" NAME="8-1消息 Coverage Results" MODIFIED="1528468574048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$7_6.coverage" NAME="7-6三个出口 Coverage Results" MODIFIED="1528381649239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap07用户输入和while循环" />
+    <SUITE FILE_PATH="coverage/python$12_2.coverage" NAME="12-2游戏角色 Coverage Results" MODIFIED="1529063722682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap12武装飞船" />
+    <SUITE FILE_PATH="coverage/python$3_3.coverage" NAME="3-3自己的列表 Coverage Results" MODIFIED="1527769734802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$3_9.coverage" NAME="3-9晚餐嘉宾 Coverage Results" MODIFIED="1528038940366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$5_3_1.coverage" NAME="5-3外星人颜色#1 Coverage Results" MODIFIED="1528212977708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$6_3.coverage" NAME="6-3词汇表 Coverage Results" MODIFIED="1528288074495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$5_5_3.coverage" NAME="5-5外星人颜色#3 Coverage Results" MODIFIED="1528213769434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$7_1.coverage" NAME="7-1汽车租赁 Coverage Results" MODIFIED="1528371522310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap07用户输入和while循环" />
+    <SUITE FILE_PATH="coverage/python$10_8.coverage" NAME="10-8猫和狗 Coverage Results" MODIFIED="1528894033506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$8_13.coverage" NAME="8-13用户简介 Coverage Results" MODIFIED="1528506991334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$9_3.coverage" NAME="9-3用户 Coverage Results" MODIFIED="1528557793747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$16_3.coverage" NAME="16-3降雨量 Coverage Results" MODIFIED="1533604579820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap16下载数据" />
+    <SUITE FILE_PATH="coverage/python$2_11Python.coverage" NAME="2-11Python之禅 Coverage Results" MODIFIED="1527769152617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$8_5.coverage" NAME="8-5城市 Coverage Results" MODIFIED="1528469916164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$7_7.coverage" NAME="7-7无限循环 Coverage Results" MODIFIED="1528381291062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap07用户输入和while循环" />
+    <SUITE FILE_PATH="coverage/python$9_9.coverage" NAME="9-9电瓶升级 Coverage Results" MODIFIED="1528607566983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$17_1.coverage" NAME="17-1其他语言 Coverage Results" MODIFIED="1534235610369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap17使用API" />
+    <SUITE FILE_PATH="coverage/python$4_13.coverage" NAME="4-13自助餐 Coverage Results" MODIFIED="1528116886986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$10_.coverage" NAME="10-沉默的猫和狗 Coverage Results" MODIFIED="1528894121366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$6_9.coverage" NAME="6-9喜欢的地方 Coverage Results" MODIFIED="1528290376298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$7_2.coverage" NAME="7-2餐馆订位 Coverage Results" MODIFIED="1528371734987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap07用户输入和while循环" />
+    <SUITE FILE_PATH="coverage/python$10_3.coverage" NAME="10-3雇员 Coverage Results" MODIFIED="1528996623467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap11测试代码" />
+    <SUITE FILE_PATH="coverage/python$7_8.coverage" NAME="7-8熟食店 Coverage Results" MODIFIED="1528381942180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap07用户输入和while循环" />
+    <SUITE FILE_PATH="coverage/python$5_6.coverage" NAME="5-6人生阶段 Coverage Results" MODIFIED="1528213771406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap05if语句" />
+    <SUITE FILE_PATH="coverage/python$12_5.coverage" NAME="12-5侧面射击 Coverage Results" MODIFIED="1529299558002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap12武装飞船" />
+    <SUITE FILE_PATH="coverage/python$4_2.coverage" NAME="4-2动物 Coverage Results" MODIFIED="1528114472244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$game_stats.coverage" NAME="game_stats Coverage Results" MODIFIED="1533047654503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵" />
+    <SUITE FILE_PATH="coverage/python$9_4.coverage" NAME="9-4就餐人数 Coverage Results" MODIFIED="1528602799119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$4_51_100W.coverage" NAME="4-5计算1~100W的总和 Coverage Results" MODIFIED="1528115154832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$4_6.coverage" NAME="4-6奇数 Coverage Results" MODIFIED="1528115221438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$6_2.coverage" NAME="6-2喜欢的数字 Coverage Results" MODIFIED="1528287915749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$6_8.coverage" NAME="6-8宠物 Coverage Results" MODIFIED="1528290187794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$2_5.coverage" NAME="2-5名言 Coverage Results" MODIFIED="1527768621195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$4_1.coverage" NAME="4-1披萨 Coverage Results" MODIFIED="1528114303347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$8_12.coverage" NAME="8-12三明治 Coverage Results" MODIFIED="1528505819325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$16_2.coverage" NAME="16-2比较锡特卡和死亡谷的气温 Coverage Results" MODIFIED="1533604244949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap16下载数据" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="多条消息打印 Coverage Results" MODIFIED="1527768325357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$4_73.coverage" NAME="4-73的倍数 Coverage Results" MODIFIED="1528115371611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$8_15.coverage" NAME="8-15打印模型 Coverage Results" MODIFIED="1528509148755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$9_5.coverage" NAME="9-5尝试登录次数 Coverage Results" MODIFIED="1528602973134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$12_3.coverage" NAME="12-3火箭 Coverage Results" MODIFIED="1529163441399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap12武装飞船" />
+    <SUITE FILE_PATH="coverage/python$13_1.coverage" NAME="13-1星星 Coverage Results" MODIFIED="1532966784037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap13外星人" />
+    <SUITE FILE_PATH="coverage/python$15_3.coverage" NAME="15-3分子运动 Coverage Results" MODIFIED="1533454986937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap15生成数据" />
+    <SUITE FILE_PATH="coverage/python$17_2.coverage" NAME="17-2最活跃的讨论 Coverage Results" MODIFIED="1534236990339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap17使用API" />
+    <SUITE FILE_PATH="coverage/python$8_7.coverage" NAME="8-7专辑 Coverage Results" MODIFIED="1528478271509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$10_4.coverage" NAME="10-4访客名单 Coverage Results" MODIFIED="1528724553158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$10_13.coverage" NAME="10-13用户验证 Coverage Results" MODIFIED="1528898100108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$6_102.coverage" NAME="6-10喜欢的数字2 Coverage Results" MODIFIED="1528290472007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$8_3T.coverage" NAME="8-3T恤 Coverage Results" MODIFIED="1528469519975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap08函数" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_10_3_py.coverage" NAME="Unittests in 10-3雇员.py Coverage Results" MODIFIED="1528996608745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap11测试代码" />
+    <SUITE FILE_PATH="coverage/python$2_1.coverage" NAME="2-1简单消息 Coverage Results" MODIFIED="1527768320462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$4_8.coverage" NAME="4-8立方 Coverage Results" MODIFIED="1528115551621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap04操作列表" />
+    <SUITE FILE_PATH="coverage/python$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1528117185868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap01起步" />
+    <SUITE FILE_PATH="coverage/python$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1533454242604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化" />
+    <SUITE FILE_PATH="coverage/python$10_6.coverage" NAME="10-6加法运算 Coverage Results" MODIFIED="1528892468810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$11_1.coverage" NAME="11-1城市和国家 Coverage Results" MODIFIED="1528987612716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap11测试代码" />
+    <SUITE FILE_PATH="coverage/python$7_5.coverage" NAME="7-5电影票 Coverage Results" MODIFIED="1528381060492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap07用户输入和while循环" />
+    <SUITE FILE_PATH="coverage/python$16_5.coverage" NAME="16-5涵盖所有的国家 Coverage Results" MODIFIED="1533753050599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/chap16下载数据" />
+    <SUITE FILE_PATH="coverage/python$die_visual.coverage" NAME="die_visual Coverage Results" MODIFIED="1533456886493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化" />
+    <SUITE FILE_PATH="coverage/python$13_3.coverage" NAME="13-3雨滴 Coverage Results" MODIFIED="1532969232336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap13外星人" />
+    <SUITE FILE_PATH="coverage/python$2_3.coverage" NAME="2-3个性化消息 Coverage Results" MODIFIED="1527768314518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/python$10_11.coverage" NAME="10-11喜欢的数字 Coverage Results" MODIFIED="1528896918285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$6_5.coverage" NAME="6-5河流 Coverage Results" MODIFIED="1528288889285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap06字典" />
+    <SUITE FILE_PATH="coverage/python$10_2C.coverage" NAME="10-2C语言学习笔记 Coverage Results" MODIFIED="1528722679652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$3_8.coverage" NAME="3-8放眼世界 Coverage Results" MODIFIED="1528038817837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03列表简介" />
+    <SUITE FILE_PATH="coverage/python$10_1python.coverage" NAME="10-1python学习笔记 Coverage Results" MODIFIED="1528646368535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10文件和异常" />
+    <SUITE FILE_PATH="coverage/python$14_3.coverage" NAME="14-3有一定难度的射击练习 Coverage Results" MODIFIED="1533407989602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/外星人入侵/chap14记分" />
+    <SUITE FILE_PATH="coverage/python$9_7.coverage" NAME="9-7管理员 Coverage Results" MODIFIED="1528605857880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$9_2.coverage" NAME="9-2三家餐馆 Coverage Results" MODIFIED="1528557438381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap09类" />
+    <SUITE FILE_PATH="coverage/python$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1533419300236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/users/templates/users/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_entry.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/new_entry.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_topic.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/new_topic.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19-1博客.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Web应用程序/chap19用户账户/19-1博客.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topics.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/topics.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit_entry.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/edit_entry.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topic.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/topic.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_log/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2527">
+              <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update_</find>
+      <find>update_aliens</find>
+      <find>reset_stats</find>
+      <find>check_aliens_bottom</find>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Anjaxs\UniversityCode\python\python编程：从入门到实践\外星人入侵\chap12武装飞船</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/数据可视化/chap15生成数据/15-5重构.py" />
+        <option value="$PROJECT_DIR$/数据可视化/die.py" />
+        <option value="$PROJECT_DIR$/数据可视化/die_visual.py" />
+        <option value="$PROJECT_DIR$/chap10文件和异常/10-6加法运算.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap15生成数据/15-4改进的随机漫步.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap15生成数据/15-3分子运动.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap15生成数据/15-6自动生成标签.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap15生成数据/15-8同时掷三个骰子.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap15生成数据/15-9将点数相乘.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap15生成数据/15-7两个D8骰子.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap16下载数据/16-1旧金山.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap16下载数据/16-2比较锡特卡和死亡谷的气温.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap16下载数据/16-3降雨量.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap16下载数据/16-4探索.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap16下载数据/16-6国内生成总值.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap16下载数据/16-7选择你自己的数据.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap16下载数据/16-8测试模块country_codes.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap16下载数据/16-5涵盖所有的国家.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap17使用API/17-1其他语言.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap17使用API/17-2最活跃的讨论.py" />
+        <option value="$PROJECT_DIR$/数据可视化/chap17使用API/17-3测试python_repos.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/chap18Django入门/18.1新项目.py" />
+        <option value="$PROJECT_DIR$/WebApp/learning_log/learning_logs/admin.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/admin.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/chap18Django入门/18.2简短的条目.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/chap18Django入门/1Django API.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/chap18Django入门/18.3Django API.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/chap18Django入门/18.4披萨店.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/index.html" />
+        <option value="$PROJECT_DIR$/Web应用程序/chap18Django入门/18.5膳食规划程序.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/chap18Django入门/18.6披萨店主页.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/chap18Django入门/18.7模板文档.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/chap18Django入门/18.8披萨店页面.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/forms.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/chap19用户账户/19-1博客.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/edit_entry.html" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/new_entry.html" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/urls.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_log/urls.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/users/urls.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/users/templates/users/register.html" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/users/views.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/models.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/views.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_log/settings.py" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/base.html" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/index.html" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/users/templates/users/login.html" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/new_topic.html" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/topics.html" />
+        <option value="$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/topic.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python编程：从入门到实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python编程：从入门到实践" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python编程：从入门到实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python编程：从入门到实践" type="462c0819:PsiDirectoryNode" />
+              <item name="Web应用程序" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anjaxs\UniversityCode\python\python编程：从入门到实践\外星人入侵\chap14记分" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anjaxs\UniversityCode\python\python编程：从入门到实践\外星人入侵" />
+      <recent name="C:\Users\Anjaxs\UniversityCode\python\python编程：从入门到实践\外星人入侵\chap12武装飞船" />
+      <recent name="C:\Users\Anjaxs\UniversityCode\python\python编程：从入门到实践\chap08函数" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in 17-3测试python_repos.py">
+    <configuration name="16-4探索" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python编程：从入门到实践" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据可视化/chap16下载数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据可视化/chap16下载数据/16-4探索.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="16-5涵盖所有的国家" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python编程：从入门到实践" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据可视化/chap16下载数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据可视化/chap16下载数据/16-5涵盖所有的国家.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="17-1其他语言" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python编程：从入门到实践" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据可视化/chap17使用API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据可视化/chap17使用API/17-1其他语言.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="17-2最活跃的讨论" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python编程：从入门到实践" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据可视化/chap17使用API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据可视化/chap17使用API/17-2最活跃的讨论.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests in 17-3测试python_repos.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python编程：从入门到实践" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据可视化/chap17使用API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/数据可视化/chap17使用API/17-3测试python_repos.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.16-4探索" />
+      <item itemvalue="Python.16-5涵盖所有的国家" />
+      <item itemvalue="Python.17-1其他语言" />
+      <item itemvalue="Python.17-2最活跃的讨论" />
+      <item itemvalue="Python tests.Unittests in 17-3测试python_repos.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in 17-3测试python_repos.py" />
+        <item itemvalue="Python.17-2最活跃的讨论" />
+        <item itemvalue="Python.17-1其他语言" />
+        <item itemvalue="Python.16-5涵盖所有的国家" />
+        <item itemvalue="Python.16-4探索" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c6d11af-782f-4c6b-bc6c-f3005e9e5d9d" name="Default" comment="" />
+      <created>1527767861375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527767861375</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_10-3雇员_py - 2018.06.15 at 01h 16m 49s.xml">
+      <configuration name="Unittests in 10-3雇员.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_17-3测试python_repos_py - 2018.08.14 at 17h 06m 32s.xml">
+      <configuration name="Unittests in 17-3测试python_repos.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29411766" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17935579" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.329429" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.79941434" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Web应用程序/learning_log/users/urls.py</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chap03列表简介/3-7缩减名单.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap03列表简介/3-6添加嘉宾.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap03列表简介/3-5修改嘉宾名单.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap03列表简介/3-3自己的列表.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap03列表简介/3-9晚餐嘉宾.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap03列表简介/3-10尝试各种函数.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap03列表简介/3-11有意引发错误.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据可视化/chap16下载数据/16-5涵盖所有的国家.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="53" column="45" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据可视化/chap17使用API/Hacker_New最活跃的讨论.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据可视化/chap17使用API/17-2最活跃的讨论.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="25" column="82" lean-forward="true" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11测试代码/10-3雇员.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11测试代码/11-1城市和国家.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据可视化/chap17使用API/17-3测试python_repos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11测试代码/city_function.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11测试代码/11-2人口数量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据可视化/chap17使用API/17-1其他语言.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_log/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/index.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/urls/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/chap18Django入门/18.7模板文档.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/chap18Django入门/18.8披萨店页面.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/chap18Django入门/18.6披萨店主页.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/chap18Django入门/18.5膳食规划程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/chap18Django入门/18.1新项目.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/chap18Django入门/18.3Django API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/chap18Django入门/18.2简短的条目.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/chap18Django入门/18.4披萨店.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="52" selection-start-line="52" selection-end-line="61" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_log/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_log/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/users/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/users/templates/users/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_log/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2527">
+          <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/users/templates/users/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/topic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/topics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/edit_entry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/new_entry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/learning_log/learning_logs/templates/learning_logs/new_topic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web应用程序/chap19用户账户/19-1博客.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
