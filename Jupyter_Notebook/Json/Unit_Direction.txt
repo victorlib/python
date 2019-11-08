@@ -1,0 +1,14 @@
+{
+    "机组左式":"Left",
+    "机组右式":"Right",
+    "功能段":"Section",
+    "检修位置":"Access",
+    "接管方向":"Pipe",
+    "排水盘方向":"Drainpan",
+    "左":"Left",
+    "右":"Right",
+	"备注：":"Note:",
+	"1、机组左右式判定：人位于最下层箱体内部且面对气流，检修或接管等方位在左即为左式机组，反之为右式机组":"1.Unit L/R orientation  judgment is based on the pipe or access orientation of down unit.",
+	
+    "无":"N/A"
+}

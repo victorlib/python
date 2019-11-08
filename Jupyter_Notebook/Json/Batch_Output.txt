@@ -1,0 +1,9 @@
+{
+    "机组列表":"Unit List",
+    "全选":"All",
+    "机组输出到窗口":"Output Window",
+    "价格":"Price",
+    "图纸":"Drawing",
+    "配线清单":"Wiring List",
+    "退出":"Exit"
+}

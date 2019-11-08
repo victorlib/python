@@ -1,0 +1,20 @@
+{
+    "导风段":"Diffuser Section",
+    "输入":"Parameter Input",
+    "检修类型：":"Door Type",
+	"检修类型":"Door Type",
+    "塑钢门":"Engineered Plastic",
+    "铰链门":"Hinged Door",
+    "选型输出":"Selection Output",
+    "段压降：":"APD",
+    "段长度：":"Section Length",
+    "段重量：":"Section Weight",
+    "均流段":"Diffuser Section",
+    "检修位置":"Door Location",
+    "功能段阻力":"APD",
+    "功能段长度":"Section Length",
+    "功能段重量":"Section Weight",
+	"选型":"Calculate",
+	"确定":"Confirm",
+	"取消":"Cancel"
+}

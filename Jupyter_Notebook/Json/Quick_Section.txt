@@ -1,0 +1,13 @@
+{
+    "快速选型":"Quick Selection",
+    "正常":"Normal",
+    "文件路径：":"File Route:",
+    "录入":"Upload",
+    "选型":"Selection",
+    "序号":"Item",
+    "说明":"Remark",
+    "创建录入表单":"Create",
+    "打开编辑模板":"Edit",
+    "确定":"Confirm",
+    "取消":"Cancel"
+}

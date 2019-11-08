@@ -1,0 +1,22 @@
+
+{
+	"确定":"Confirm",
+	"取消":"Cancel",
+	"全选":"All",
+	"板式热回收":"Plate Type HR",
+	"回风机参数":"Return Fan",
+	"直膨盘管":"Direct Expansion Coil",
+	"分流段风口":"Double Mixing Box",
+	"热回收":"Heat Recovery",
+	"冷水盘管":"Water Coil",
+	"冷盘管供热参数":"Cooling Coil(For Heating)",
+	"热水盘管":"Heating Coil",
+	"过滤器":"Filter",
+	"送风机参数":"Supply Fan",
+	"加湿器":"Humidifier",
+	"蒸汽盘管":"Steam Coil",
+	"电加热":"Electric Heater",
+	"风口尺寸":"Air Vent Dimension",
+	"箱体外形尺寸":"Unit Dimension",
+	"重量":"Weight"
+}

@@ -1,0 +1,17 @@
+{
+    "转换机组":"Unit Range Switch",
+    "转换选项":"Items",
+    "产品类型":"Unit Range",
+    "面板厚度":"Panel Thickness",
+    "盘管风速":"Face Velocity",
+    "转换前":"Before Switch",
+    "转换后":"After Switch",
+    "机组编号:":"Tag Number:",
+    "机组型号:":"Unit Model:",
+    "机组价格:":"Unit Total Price:",
+	"盘管风速:":"Face Velocity:",
+	"产品类型:":"Unit Range:",
+	"转换":"Switch",
+    "确定":"Confirm",
+    "取消":"Cancel"
+}

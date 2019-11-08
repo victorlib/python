@@ -1,0 +1,13 @@
+{
+    "模板管理":"Template Manager",
+    "功能段列表":"Section List",
+    "模板名字":"Template ",
+    "模板说明":"Description",
+    "模板列表":"List",
+    "说明":"Description",
+    "新建模板":"New ",
+    "删除模板":"Delete",
+    "保存":"Save",
+    "检查排列":"Arrangement",
+    "确定":"Confirm"
+}
